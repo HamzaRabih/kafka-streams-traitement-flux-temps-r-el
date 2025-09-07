@@ -1,7 +1,9 @@
-## 📂 TP Kafka Streams — Traitement de flux en temps réel
 
+## 📂 TP Kafka Streams — Traitement de flux en temps réel
 Ce dossier regroupe des mini-projets basés sur Kafka Streams permettant d’illustrer le traitement de données en temps réel à l’aide de Apache Kafka, Spring Boot et Docker.
 
+### Exercice
+[énoncé_d'exercice_TP1_Kafka-streams.pdf](%C3%A9nonc%C3%A9_d%27exercice_TP1_Kafka-streams.pdf)
 📌 Contenu
 
 - [`click-counter-app`](./click-counter-app): application simulant des clics utilisateurs envoyés à Kafka, traités via Kafka Streams, puis exposés en temps réel via une API REST.
