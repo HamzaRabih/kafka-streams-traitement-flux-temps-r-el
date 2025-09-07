@@ -4,7 +4,8 @@ Ce dossier regroupe des mini-projets basés sur Kafka Streams permettant d’ill
 
 ### Exercice
 [énoncé_d'exercice_TP1_Kafka-streams.pdf](%C3%A9nonc%C3%A9_d%27exercice_TP1_Kafka-streams.pdf)
-📌 Contenu
+
+## 📌 Contenu
 
 - [`click-counter-app`](./click-counter-app): application simulant des clics utilisateurs envoyés à Kafka, traités via Kafka Streams, puis exposés en temps réel via une API REST.
 - [`weatherStreamApp`](./weatherStreamApp): application de traitement de flux de données météorologiques en direct avec Kafka Streams.
